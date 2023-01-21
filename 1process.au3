@@ -1,5 +1,5 @@
 $program_not_run=1
-$aList = ProcessList ("notepad.exe")
+$aList = ProcessList ("notepad.exe") ;;
 For $i=1 To $aList[0][0]
 	;ConsoleWrite($aList[$i][1] &@CRLF)
 	;ConsoleWrite( _ProcessGetOwner($aList[$i][1]) &@CRLF)
@@ -17,7 +17,7 @@ Next
 ConsoleWrite("1" &@CRLF)
 if $program_not_run=1 Then ;Пользователь еще не запустил ПО, запускаем
 	ConsoleWrite("2" &@CRLF)
-	Run("notepad.exe")
+	Run("notepad.exe") ;;
 EndIf
 
 
