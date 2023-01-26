@@ -22,6 +22,9 @@ sudo systemctl enable smb
 
 
 
+///////////
+
+
 
 http://archive.ubuntu.com/ubuntu/pool/main/s/samba/samba_4.7.6+dfsg~ubuntu-0ubuntu2_amd64.deb
 apt-get samba_4.7.6+dfsg~ubuntu-0ubuntu2_amd64.deb
