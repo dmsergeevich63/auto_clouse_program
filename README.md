@@ -34,4 +34,6 @@ dpkg --install samba_4.7.6+dfsg~ubuntu-0ubuntu2_amd64.deb
 
 https://www.youtube.com/watch?v=l7dbSBI-dSU&t=406s
 
+tscon.exe 1 /dest:console
+
 
