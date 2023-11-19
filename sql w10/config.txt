@@ -1,0 +1,6 @@
+server_name=RYZEN\TEW_SQLEXPRESS
+database_name=TEST
+username=sup
+password=1
+query=SELECT [имя], [серийник], [пользователь] FROM [TEST].[dbo].[table]
+output_file=PC.xlsx
