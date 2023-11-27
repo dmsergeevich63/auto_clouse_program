@@ -1,3 +1,5 @@
+https://disk.yandex.ru/d/dEGn7kG-OiIdtg IQY
+
 # auto_clouse_program
 Скрипт для закрытия программы через 10 минут бездействия
 
